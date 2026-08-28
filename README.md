@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project using FIFA 21 player data to analyze player performance, market value, wages, age groups, clubs, nationalities, and player attributes.
 
-The project combines **Python, Machine Learning, and Power BI** to transform raw player data into meaningful insights and an interactive business dashboard.
+The project combines Python, Machine Learning, and Power BI to transform raw player data into meaningful insights and an interactive business dashboard.
 
 ---
 
@@ -39,16 +39,16 @@ The project follows an end-to-end data analytics workflow, from data cleaning to
 
 ## 🛠️ Tools & Technologies
 
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- **Scikit-learn**
-- **Jupyter Notebook**
-- **Power BI**
-- **Power Query**
-- **DAX**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- Power BI
+- Power Query
+- DAX
 
 ---
 
