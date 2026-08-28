@@ -19,7 +19,7 @@ This project analyzes FIFA 21 player data to understand:
 - Player performance profiles using clustering
 - Market value prediction using Machine Learning
 
-The project follows an end-to-end data analytics workflow, from data cleaning to visualization and machine learning.
+The project follows an end-to-end data analytics workflow, from data cleaning and exploratory analysis to machine learning and dashboard development.
 
 ---
 
